@@ -8,7 +8,7 @@ import { PublicKey, Transaction, SystemProgram } from '@solana/web3.js';
 // 🔥 在這裡更新你的設定
 const NFT_CONFIG = {
   // 替換為你從 Phantom 複製的錢包地址
-  CREATOR_WALLET: "把你的錢包地址貼在這裡",
+  CREATOR_WALLET: "DE4TANizABFabGKiokXTLML53L8rswD213P57HsCCXHb",
   NFT_PRICE: 0.001, // NFT 價格（SOL）- 先設小一點測試
   ROYALTY_PERCENTAGE: 5, // 版稅百分比（5%）
 };
